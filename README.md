@@ -18,7 +18,7 @@ If you find our method useful in your research, please kindly cite our paper:
     }
 
 ## Architecture
-<p align="center">
+<p align="left">
 <img src="images/pipeline.JPG" alt="framework" width="900px">
 </p>
 
