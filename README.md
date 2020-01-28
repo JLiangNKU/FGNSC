@@ -22,7 +22,7 @@ If you find our method useful in your research, please kindly cite our paper:
 <img src="pipeline.JPG" alt="framework" width="900px">
 </p>
 
-For more details, please refer to our [paper](http://liangjie.xyz/)
+For more details, please refer to our [paper](http://liangjie.xyz/).
 
 ## Usage
 
@@ -36,4 +36,6 @@ git clone https://github.com/JLiangNKU/FGNSC
 
 3. run main.m and get the clustering result of the extended Yale B dataset.
 
+## Contact
 
+Please feel free to contact me if you have any questions via liang27jie@gmail.com.
