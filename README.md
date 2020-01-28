@@ -17,6 +17,10 @@ If you find our method useful in your research, please kindly cite our paper:
     	year={2019}
     }
 
+## Architecture
+<p align="center">
+<img src="images/pipeline.JPG" alt="framework" width="900px">
+</p>
 
 
 
