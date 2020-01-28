@@ -26,15 +26,15 @@ For more details, please refer to our [paper](http://liangjie.xyz/).
 
 ## Usage
 
-1. Clone this repository
+1. Clone this repository;
 
 ```shell
 git clone https://github.com/JLiangNKU/FGNSC
 ```
 
-2. open the matlab and cd into the repository
+2. Open matlab and cd into the repository;
 
-3. run main.m and get the clustering result of the extended Yale B dataset.
+3. Run main.m and get the clustering result of the extended Yale B dataset.
 
 ## Contact
 
