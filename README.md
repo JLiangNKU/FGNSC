@@ -10,12 +10,15 @@ Finding the informative clusters of a high-dimensional dataset is at the core of
 
 If you find our method useful in your research, please kindly cite our paper:
 
-@article{yang2019subspace,
-  title={Subspace clustering via good neighbors},
-  author={Yang, Jufeng and Liang, Jie and Wang, Kai and Rosin, Paul and Yang, Ming-Hsuan},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2019}
-}
+    @article{yang2019subspace,
+    	author={Yang, Jufeng and Liang, Jie and Wang, Kai and Rosin, Paul and Yang, Ming-Hsuan},
+    	title={Subspace clustering via good neighbors},
+    	journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+    	year={2019}
+    }
+
+
+
 
 Source code for the paper entitled 'Subspace Clustering via Good Neighbors'
 
