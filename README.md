@@ -34,4 +34,4 @@ git clone https://github.com/JLiangNKU/FGNSC
 
 2. open the matlab and cd into the repository
 
-3. 
+3. run main.m and get the clustering result of the extended Yale B dataset.
