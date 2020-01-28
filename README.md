@@ -22,7 +22,7 @@ If you find our method useful in your research, please kindly cite our paper:
 <img src="pipeline.JPG" alt="framework" width="900px">
 </p>
 
-## Requirements
+For more details, please refer to our [paper](http://liangjie.xyz/)
 
 ## Usage
 
@@ -35,3 +35,5 @@ git clone https://github.com/JLiangNKU/FGNSC
 2. open the matlab and cd into the repository
 
 3. run main.m and get the clustering result of the extended Yale B dataset.
+
+
