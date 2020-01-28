@@ -22,8 +22,16 @@ If you find our method useful in your research, please kindly cite our paper:
 <img src="pipeline.JPG" alt="framework" width="900px">
 </p>
 
+## Requirements
 
+## Usage
 
-Source code for the paper entitled 'Subspace Clustering via Good Neighbors'
+1. Clone this repository
 
-Instructions will be updated soon.
+```shell
+git clone https://github.com/JLiangNKU/FGNSC
+```
+
+2. open the matlab and cd into the repository
+
+3. 
